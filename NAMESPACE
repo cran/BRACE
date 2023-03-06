@@ -1,0 +1,6 @@
+export(brace)
+export(gendat)
+export(gendat2)
+import(survival,survminer)
+importFrom("stats", "as.formula", "binomial", "confint", "glm",
+               "quantile", "rbinom", "runif", "rweibull", "time", "var")

@@ -1,0 +1,17 @@
+f85ef364e10eb0abce3b299718783264 *DESCRIPTION
+57170612814a00afd5ccd30243c9b09c *NAMESPACE
+2ffe4da4b9a0fde3fbf25a6e15475591 *NEWS.md
+87b6dc82c57390db05764a62bc5f859c *R/brace.R
+33f4fae63ef31197c0c714a0d46097d7 *R/gendat.R
+d40a9d4797b75fcbe9ebdf8328b0c78b *R/gendat2.R
+cf8f24030c60a026c80609fdb3ce9202 *R/globals.R
+6588d7112d56e09af2d900aef228c543 *build/vignette.rds
+53909cc4e99f78643c42f1a8d595c33b *inst/doc/BRACE-intro.R
+460eed6bd31b170f6356c8454af2ac1b *inst/doc/BRACE-intro.Rmd
+29d9bbc7cc4d97eefbba65243c3d1f05 *inst/doc/BRACE-intro.html
+a7c5a6b5a65e3e4bf14f936d8cc9d54b *man/brace.Rd
+0775fc59012757a91d7aaa4def377a4e *man/gendat.Rd
+47c13fdefb7c278110cac16e384a0bad *man/gendat2.Rd
+7e96542105bb1ce9bfde68cf7abf3f8b *tests/testthat.R
+d8334c8449a86f40b117835717eb3357 *tests/testthat/test-brace.R
+460eed6bd31b170f6356c8454af2ac1b *vignettes/BRACE-intro.Rmd
